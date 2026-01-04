@@ -1,3 +1,3 @@
 # Learn Something
 ## Introduction
-This is an app that aims to make learning from textbooks easier and more engaging. 
+An app that aims to make learning from a textbook easy and fun. 
